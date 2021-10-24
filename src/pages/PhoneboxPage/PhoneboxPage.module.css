@@ -1,0 +1,22 @@
+.phonebox_page {
+    background-color: #61dafb;
+    width: 94vw;
+    height: 100%;
+}
+
+.phonebox_page nav {
+    display: flex;
+    border-bottom: solid #876ED7 1px;
+}
+
+.phonebox_page li {
+    list-style-type: none;
+    border: solid red 1px;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.phonebox_page a {
+    text-decoration: none;
+}
+

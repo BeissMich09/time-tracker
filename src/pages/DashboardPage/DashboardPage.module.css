@@ -1,0 +1,6 @@
+.dashboard_page {
+    background-color: wheat;
+    width: 94vw;
+    height: 100%;
+    display: flex;
+}

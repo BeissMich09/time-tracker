@@ -1,0 +1,17 @@
+.nav_dashboard nav {
+    display: flex;
+    border-bottom: solid #876ED7 2px;
+    width: 82vw;
+}
+
+.nav_dashboard li {
+    list-style-type: none;
+    border: solid #876ED7 2px;
+    border-bottom: none;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.nav_dashboard a {
+    text-decoration: none;
+}
